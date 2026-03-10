@@ -1,0 +1,8 @@
+{
+  "wallet": "0xYourWallet",
+  "platforms": [
+    "Decibel",
+    "Hyperliquid",
+    "Aptos"
+  ]
+}
